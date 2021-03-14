@@ -2,9 +2,9 @@ from cmaketools import setup
 
 setup(
     name="pybind_example",
-    version="0.0.1",
+    version="0.1.0",
     author="Takeshi (Kesh) Ikuma",
-    author_email="tikuam@gmail.com",
+    author_email="tikuma@gmail.com",
     description="A test package using pybind11",
     url="https://github.com/python-cmaketools/pybind-example.git",
     license="MIT License",
