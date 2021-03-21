@@ -1,7 +1,7 @@
 # pybind11_example for python-cmaketools
 
-<!-- [![Build Status](https://travis-ci.org/pybind/cmake_example.svg?branch=master)](https://travis-ci.org/pybind/cmake_example)
-[![Build status](https://ci.appveyor.com/api/projects/status/57nnxfm4subeug43/branch/master?svg=true)](https://ci.appveyor.com/project/dean0x7d/cmake-example/branch/master) -->
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/python-cmaketools/pybind-example/CI)
+![LICENSE](https://img.shields.io/github/license/python-cmaketools/pybind-example)
 
 This is a remake of the [pybind's CMake example](https://github.com/pybind/cmake_example) to built a Python package using [the `cmaketools` setuptools extension](https://github.com/python-cmaketools/python-cmaketools).
 
